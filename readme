@@ -1,0 +1,18 @@
+Algo for BST:
+create a Node{
+    data;
+    left=right=null
+}
+create a class BST{
+    root = null
+}
+add(data){
+    const node=root;
+    if(node === null){
+        then create a new node(node = new Node(data))
+        and return
+    }
+    else{
+        if(data < )
+    }
+}
